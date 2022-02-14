@@ -10,7 +10,7 @@
         "operation": "fetchContent",
         "inputs": {
           "contentType": "pages",
-          "wordpressFullDomain": ""
+          "wordpressFullDomain": "${{wordpressFullDomain}}"
         }
       }
     },

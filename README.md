@@ -6,7 +6,7 @@ WordPress hosts a vast array of data types, all of which can now be brought into
 
 This simple app automatically syncs pages details such as name, dates, author details and the landing page URL to Yext on a daily cadence. Any time you add, update, or remove pages in WordPress these same changes will occur in Yext. Now you can extend the reach of your WordPress pages even further to power Yext products such as Answers and Pages! 
 
-This app creates a custom Post entity type and the following custom fields:
+This app creates a custom Page entity type and the following custom fields:
 - wp_activeOnAnswers
 - wp_alternativeCaption
 - wp_author
